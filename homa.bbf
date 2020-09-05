@@ -1,0 +1,9 @@
+@name(Homa)@
+@h(Привет мир)@
+@text(Рыба Lorem Рыба Lorem Рыба Lorem Рыба Lorem.
+Умная рыба
+)@
+@form<@req[Ваше имя]>{priem.bbf}[text()]
+@req[Ваше имя]@
+@button(Ок)@
+  @
